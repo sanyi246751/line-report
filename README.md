@@ -8,6 +8,8 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/7a12bbde-f57e-4a1a-9d86-1a4b85d72661
 
+**[Live Demo on GitHub Pages](https://sanyi246751.github.io/line-report/)**
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
