@@ -1,0 +1,5 @@
+{
+  "name": "LINE 路燈通報機器人 (GAS)",
+  "description": "提供 Google Apps Script 程式碼與教學，用於建立 LINE 機器人，自動辨識路燈圖片編號並填寫 Google 表單通報。",
+  "requestFramePermissions": []
+}
